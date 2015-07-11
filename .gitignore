@@ -46,3 +46,4 @@ out.png
 results-*/*
 textindextest/*
 wang-index-*/*
+/target/
